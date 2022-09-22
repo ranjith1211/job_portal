@@ -1,0 +1,32 @@
+{
+  "details": [
+    {
+      "role": "Full Stack",
+      "company": "Masai",
+      "location": "Goa",
+      "description": "Html Css",
+      "id": 1
+    },
+    {
+      "role": "FrontEnd",
+      "company": "Masai",
+      "location": "Goa",
+      "description": "Html Css",
+      "id": 2
+    },
+    {
+      "role": "FrontEnd",
+      "company": "Microsoft",
+      "location": "Hyderbad",
+      "description": "Html Css, Node",
+      "id": 3
+    },
+    {
+      "role": "FrontEnd",
+      "company": "Microsoft",
+      "location": "Hyderbad",
+      "description": "Html Css, Node",
+      "id": 3
+    }
+  ]
+}
